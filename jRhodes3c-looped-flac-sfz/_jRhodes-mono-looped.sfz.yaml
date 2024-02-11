@@ -1,0 +1,3795 @@
+elements:
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_029__F1_51-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#1
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f1
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_029__F1_431-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#1
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f1
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_029__F1_361-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#1
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f1
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_029__F1_279-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#1
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f1
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_029__F1_1109-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#1
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f1
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '7'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_035__B1_53-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b1
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '0.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_035__B1_433-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b1
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_035__B1_363-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b1
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_035__B1_281-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b1
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3.200'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_035__B1_1111-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a1
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b1
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '6'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_040__E2_55-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_040__E2_435-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_040__E2_365-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.200'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_040__E2_283-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.800'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_040__E2_1113-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e2
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_045__A2_57-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_045__A2_437-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_045__A2_367-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_045__A2_285-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3.400'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_045__A2_1115-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g2
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b2
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a2
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_050__D3_59-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_050__D3_439-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_050__D3_369-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.300'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_050__D3_287-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.700'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_050__D3_1117-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e3
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_055__G3_511-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '25'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_055__G3_441-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '25'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_055__G3_371-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '25'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_055__G3_289-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.200'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '25'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_055__G3_1119-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#3
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '30'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_059__B3_513-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_059__B3_443-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_059__B3_373-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_059__B3_291-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.200'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_059__B3_1121-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a3
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b3
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '20'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_062__D4_513-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '16'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_062__D4_445-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '16'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_062__D4_375-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '16'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_062__D4_293-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '16'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_062__D4_1123-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c#4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: d#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '16'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_065__F4_517-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_065__F4_447-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_065__F4_377-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_065__F4_295-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_065__F4_1125-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: e4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g#4
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: f4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '12'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_071__B4_519-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_071__B4_449-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_071__B4_449-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_071__B4_297-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_071__B4_1127-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a4
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: c#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: b4
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_076__E5_521-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_076__E5_451-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.300'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_076__E5_451-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2.300'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_076__E5_299-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_076__E5_1129-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: d5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: f#5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: e5
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3.300'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_081__A5_523-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_081__A5_453-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_081__A5_453-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_081__A5_2101-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_081__A5_2101-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: g5
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: b5
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: a5
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_086__D6_525-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e6
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d6
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_086__D6_455-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e6
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d6
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_086__D6_455-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e6
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d6
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '3'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_086__D6_2103-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e6
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d6
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '4'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_086__D6_2103-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: c6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: e6
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: d6
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_091__G6_527-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a6
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g6
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_091__G6_457-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a6
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g6
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_091__G6_457-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a6
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g6
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_091__G6_2105-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a6
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g6
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '2'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_091__G6_2105-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: f6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: a6
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: g6
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_hold
+          value: '1.500'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_decay
+          value: '10'
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_sustain
+          value: '0.300'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_096__C7_529-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g7
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c7
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_096__C7_459-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g7
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c7
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_096__C7_459-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g7
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c7
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_096__C7_2107-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g7
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '111'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c7
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: As_096__C7_2107-mono.ogg
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: a#6
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: g7
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '112'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: c7
+
